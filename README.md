@@ -1,3 +1,5 @@
+# WORK IN PROGRESS. GOING TO TRY AND ADAPT THIS PLUGIN TO ALLOW FOR LOGIN USING phpBB in Piwigo.
+
 # ExternalAuth Piwigo Plugin
 
 ## Introduction
